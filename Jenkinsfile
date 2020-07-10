@@ -3,7 +3,7 @@ node{
 
     agent {
 
-        label 'JenkinsSlave1'
+        label 'sample_1'
 
     }
 
